@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: ip-172-31-18-28
+    runs-on: agent-1
 
     strategy:
       matrix:
